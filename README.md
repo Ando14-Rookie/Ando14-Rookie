@@ -34,11 +34,7 @@ Hey! I'm Adriel Orlando Johan, a 2nd-year Electronic Engineering student at HKUS
 
 <br />
 
-<!-- Stats -->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ando14-Rookie)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&commits_year=2025)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=vue-dark)
-
+### 📖 My Journey:
+Growing up gaming fueled my tech dreams—I taught myself Godot to build indie games, loving how code brought virtual worlds to life. But as I prototyped deeper, I craved real-world impact beyond screens, pivoting to software development with FastAPI/Python APIs and Kotlin/Flutter mobile apps during my Kalbe internship. Then HKUST clubs revealed Electronic Engineering as my true calling: KiCAD PCB design, Fusion360 3D modeling, and blending hardware-software-mechanical for EV systems at Redbird Racing showed me the power of tangible creation. Now I build cross-domain solutions—apps that control circuits, prototypes that solve problems—always chasing that thrill of shipping something physical and digital. EE wasn't Plan B; it's where software ambition meets engineering reality. Let's build the future! 🚀
 
 
