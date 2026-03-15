@@ -4,6 +4,13 @@
 
 Hey! I'm Adriel Orlando Johan, a 2nd-year Electronic Engineering student at HKUST who always wants to build something meaningful. Initially drawn to CS by gaming, I discovered my true passion in EE through HKUST clubs—mastering KiCAD for PCB design, Fusion360 for 3D modeling, and diving into app development (Kotlin/Flutter frontend + FastAPI/Python backend APIs). From prototyping EV power systems to crafting secure mobile features for 200+ users at Kalbe Nutritionals, I thrive on engineering R&D, entrepreneurial problem-solving, and even music production in FL Studio.
 
+✨ Key Experience & Skills:
+- Mobile App Development: Kalbe Nutritionals Mobile Developer Intern (Indonesia) – Developed Android features using Kotlin/Flutter/API/Retrofit; implemented RoomDB for 2,000+ monthly CRUD operations serving 200+ daily users.
+- Full-Stack Backend: Built FastAPI endpoints with PostgreSQL database for data processing and automation.
+- Rapid Learning: Mastered Flutter framework in 5 days.
+- PCB Design & EV Systems: Redbird Formula Racing Electrical Trainee—designed KiCad schematics/layouts for EV power/control systems; hands-on prototyping, soldering, and telemetry analysis.
+- Firmware/Embedded: Built CBR600RR dashboard interfacing custom PCB with sensors (speed, RPM, telemetry data acquisition).
+
 <!-- Social icons section -->
 <p align="left">
   <a href="mailto:adrielorlando.advan@gmail.com">
