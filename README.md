@@ -5,11 +5,17 @@
 Hey! I'm Adriel Orlando Johan, a 2nd-year Electronic Engineering student at HKUST who always wants to build something meaningful. Initially drawn to CS by gaming, I discovered my true passion in EE through HKUST clubs—mastering KiCAD for PCB design, Fusion360 for 3D modeling, and diving into app development (Kotlin/Flutter frontend + FastAPI/Python backend APIs). From prototyping EV power systems to crafting secure mobile features for 200+ users at Kalbe Nutritionals, I thrive on engineering R&D, entrepreneurial problem-solving, and even music production in FL Studio.
 
 <!-- Social icons section -->
-<p align="left">
+<!-- <p align="left">
   <!-- Email Button -->
-  <a href="mailto:adrielorlando.advan@gmail.com">
-    <img src="https://img.shields.io/badge/Email%20Me-gray?logo=gmail&style=for-the-badge&labelColor=gray&color=EA4335" alt="Email Me Button" />
+ <!-- Multiple Email Buttons -->
+<p align="left">
+  <a href="mailto:adrielorlando.advan@gmail.com?subject=GitHub%20Hello!">
+    <img src="https://img.shields.io/badge/Gmail-gray?logo=gmail&style=for-the-badge&color=EA4335" />
   </a>
+  <a href="https://outlook.live.com/mail/0/deeplink/compose?to=adrielorlando.advan@gmail.com">
+    <img src="https://img.shields.io/badge/Outlook-gray?logo=microsoft-outlook&style=for-the-badge&color=0078D4" />
+  </a>
+</p>
   <!-- <a href="https://www.youtube.com/c/DevProTips"><img width="32px" alt="Youtube" title="Email" src="https://i.imgur.com/qiXu7b2.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287; -->
 <!--   &#8287;&#8287;&#8287;&#8287;&#8287;
